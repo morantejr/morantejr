@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @morantejr
-- 👀 I’m interested in Data Science & Web Development
+- 👀 I’m interested in Data Science & Analytics
 - 🌱 I’m currently learning Full-Stack Development & all thing related to web3
 - 📫 How to reach me morantejoseph1@gmail.com
 
