@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @morantejr
-- 👀 I’m interested in Data Science & Analytics
-- 🌱 I’m currently learning Full-Stack Development & all thing related to web3
-- 📫 How to reach me morantejoseph1@gmail.com
+Marketing measurement - MMM, incrementality, and attribution you can trust. Senior analyst at Zeta Global, previously Bloomberg Media.
 
-<!---
-morantejr/morantejr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Built [mta-audit](https://pypi.org/project/mta-audit/) - an open-source package that tells you when to trust multi-touch attribution output. `pip install mta-audit`
+
+morantejoseph1@gmail.com | [LinkedIn](https://www.linkedin.com/in/joseph-morante)
